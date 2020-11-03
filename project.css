@@ -1,0 +1,43 @@
+.body {
+  color: #3d727c;
+  font-family: "montserrat";
+}
+
+.jumbotron .style {
+  color: rosybrown;
+  font-weight: 500;
+  font-size: 100px;
+  font-family: "Playfair Display SC", serif;
+  /* font-family: "Archivo Black", sans-serif; */
+}
+
+.jumbotron .style2 {
+  color: #65aabb;
+  font-weight: 500;
+  font-size: 40px;
+  font-family: "Sacramento", cursive;
+  /* font-family: "Archivo Black", sans-serif; */
+}
+
+.container .icon {
+  color: #65aabb !important;
+  font-weight: 800;
+}
+
+span.c {
+  display: block;
+  text-decoration-color: transparent;
+  text-align: justify;
+  width: 350px;
+  height: 300px;
+  padding: 5px;
+  border-style: hidden;
+  background-color: #65aabb;
+}
+
+.media-body {
+  text-align: left;
+}
+
+.jumbotron .media {
+ background-color: rosybrown;
